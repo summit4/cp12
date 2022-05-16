@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: cp12.simplecollections
+Bundle-SymbolicName: cp12.simplecollections.jacob
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Automatic-Module-Name: cp12.simplecollections.jacob
+Export-Package: cp12.simplecollections,
+ cp12.simplecollections.level1,
+ cp12.simplecollections.level2
+Bundle-ClassPath: src/,
+ .
